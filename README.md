@@ -1,1 +1,1 @@
-# Financial-Engineering
+# 파이썬을 활용한 금융공학 구현 
